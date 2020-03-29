@@ -6,7 +6,7 @@ to create a web and mobile application through an API.
 
 ------------------------------------------------------------------
 
-Contepudo da Semana OmniStack, que é uma semana de aprendizado intensivo.
+Conteúdo da Semana OmniStack, que é uma semana de aprendizado intensivo.
 
 Nesta semana, usamos tecnologias como o React e o React Native
 para criar uma aplicação web e mobile através de uma API.
